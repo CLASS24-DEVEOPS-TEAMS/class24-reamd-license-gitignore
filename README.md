@@ -1,1 +1,5 @@
 # class24-reamd-license-gitignore
+# This Class24 Morning Session
+# PRACTICE MAKES PERFECT
+# ALWAYS WORK ON THE HELP DESK 
+# IF YOU HAVE QUESTIONS USE THE HELP DESK
